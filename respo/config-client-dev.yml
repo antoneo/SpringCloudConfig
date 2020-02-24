@@ -1,5 +1,5 @@
 sys:
-  foo: foo version 1
+  foo: foo version 0
   name: antoneo
 order:
   run:
