@@ -3,4 +3,4 @@ sys:
   name: antoneo
 order:
   run:
-    mode=dev
+    mode: dev
