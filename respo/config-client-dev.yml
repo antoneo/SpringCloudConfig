@@ -1,0 +1,6 @@
+sys:
+  foo: foo version 0
+  name: antoneo
+order:
+  run:
+    mode=dev
