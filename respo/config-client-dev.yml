@@ -1,3 +1,4 @@
+cc: mcs
 sys:
   foo: foo version 0
   name: antoneo
